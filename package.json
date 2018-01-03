@@ -1,0 +1,23 @@
+{
+  "name": "stellaralpha",
+  "version": "1.0.0",
+  "description": "Local setup of Stellar blockchain network",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanky101/StellarAlpha.git"
+  },
+  "keywords": [
+    "blockchain",
+    "stellar"
+  ],
+  "author": "Shashank @shanky101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanky101/StellarAlpha/issues"
+  },
+  "homepage": "https://github.com/shanky101/StellarAlpha#readme"
+}
